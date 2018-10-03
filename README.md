@@ -7,7 +7,7 @@ An app that scans a CSUF student's Titancard and retrieves their name and email
 ### Team Lead
 Jacob Powell scoutdude@csu.fullerton.edu
 #### Team Members
-  1. Upal Patel
+  1. Upal Patel upalpatel@csu.fullerton.edu
   2. Member two
   3. Member three
 
