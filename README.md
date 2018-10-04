@@ -1,22 +1,27 @@
 # Titancard Scanner
 
-An app that scans a CSUF student's Titancard and retrieves their name and email
+An app that scans a CSUF student's Titancard and handles logging attendance automatically
 
 ## The Project Team
 
 ### Team Lead
 Jacob Powell scoutdude@csu.fullerton.edu
 #### Team Members
-  1. Member one
-  2. Member two
-  3. Member three
+  1. Upal Patel
+  2. Chris Ahn
+  3. DavidEstephanian
+  4. Gustavo Sopena
+  5. HoungHuy Hourt
+  6. Madison
+  7. Raj Chhatbar
+  8. Tirth Shah
 
 ## Project Technologies
 
 This project will use:
+  * Python
   * Javascript
   * SQL
-  * HTML/CSS
 
 ## How to start helping
 *Please make sure you have git installed on your computer before you begin to help. To install git, please visit [Git](https://git-scm.com/downloads)*
