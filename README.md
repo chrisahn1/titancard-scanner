@@ -9,7 +9,7 @@ Jacob Powell scoutdude@csu.fullerton.edu
 #### Team Members
   1. Upal Patel
   2. Chris Ahn
-  3. DavidEstephanian
+  3. David Estephanian
   4. Gustavo Sopena
   5. HoungHuy Hourt
   6. Madison
