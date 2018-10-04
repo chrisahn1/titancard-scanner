@@ -12,7 +12,7 @@ Jacob Powell scoutdude@csu.fullerton.edu
   3. David Estephanian
   4. Gustavo Sopena
   5. HoungHuy Hourt
-  6. Madison
+  6. Madison Jordan
   7. Raj Chhatbar
   8. Tirth Shah
 
