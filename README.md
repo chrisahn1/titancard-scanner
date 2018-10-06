@@ -15,7 +15,7 @@ Jacob Powell scoutdude@csu.fullerton.edu
   6. Madison Jordan
   7. Raj Chhatbar
   8. Tirth Shah
-
+  9. Duy Do	
 ## Project Technologies
 
 This project will use:
