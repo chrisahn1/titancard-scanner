@@ -10,4 +10,4 @@ cap = cv2.VideoCapture(0)
 vid = Video(cap)
 
 #loop to keep video running
-vid.update(cap)
+vid.update()
