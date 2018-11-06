@@ -23,6 +23,9 @@ This project will use:
   * Javascript
   * SQL
 
+## How to install
+pip install opencv-python
+
 ## How to start helping
 *Please make sure you have git installed on your computer before you begin to help. To install git, please visit [Git](https://git-scm.com/downloads)*
 
